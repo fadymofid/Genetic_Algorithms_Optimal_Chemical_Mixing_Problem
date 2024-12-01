@@ -1,0 +1,4 @@
+Dataset 1
+Upper Bound Sum that is lower than the total proportion: 90.0
+Chemical Proportions: [30. 30. 30.]
+Total Cost: 675.00
